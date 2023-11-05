@@ -1,5 +1,5 @@
-# Map of Vietnam and its provinces
-Visualizing Vietnam on a map with a web app
+# Map of Vietnam
+Visualizing Vietnam and its provinces on a map
 
 # Check it out
 https://hiilsof.github.io/vietnam-map
