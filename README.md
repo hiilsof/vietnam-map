@@ -1,4 +1,4 @@
-# vietnam-map
+# Map of Vietnam and its provinces
 Visualizing Vietnam on a map with a web app
 
 # Check it out
