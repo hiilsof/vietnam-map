@@ -11,5 +11,5 @@ https://hiilsof.github.io/vietnam-map
 - show name of province on hover
 - redirect on click 
 
-Resources:
+# Resources
 - SVG file https://simplemaps.com/resources/svg-vn
