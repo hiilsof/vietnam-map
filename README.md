@@ -6,7 +6,7 @@ Plan:
 - no need for frameworks at first implementation
 - SVG map of Vietnam
 - show name of province on hover
-- redirect on click
+- redirect on click 
 
 Resources:
 - SVG file https://simplemaps.com/resources/svg-vn
